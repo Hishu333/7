@@ -21,7 +21,7 @@ Shopware.Service('cmsService').registerCmsBlock({
         sizingMode: 'boxed'
     },
     slots: {
-        emzimageelement: 'emz-image-element',
-        emztextelement: 'emz-text-element'
+        emzimagetextelement: 'emz-image-element',
+        emzimagetextelement: 'emz-text-element'
     }
 });
